@@ -9,6 +9,7 @@
 
                 <div class="panel-body">
                     You are logged in!
+                    <a href="{{ url('formulario') }}">Formulario</a>
                 </div>
             </div>
         </div>
